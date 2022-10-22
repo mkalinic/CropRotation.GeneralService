@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TBvCzWnW5TKPFIpvYel0M6H6QmkzX7NZBM4gT3AxGuY=",
+  "Source": "CropRotation.GeneralService.API",
+  "BasePath": "_content/CropRotation.GeneralService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
